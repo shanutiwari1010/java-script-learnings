@@ -8,8 +8,8 @@ setInterval( ()=>{
         counter.innerText = count;
     }
 
-} ,10)
+} ,1)
 
 setTimeout(()=>{
-    followers.innerText= "followers on instagram!"
+    followers.innerText= "followers in instagram!"
 },3000)
